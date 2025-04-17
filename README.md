@@ -1,4 +1,5 @@
 <h2 align="left">Eae 👋! Meu nome é Hudson, Muito prazer em conhecer.</h2>
+<p>Olá novamnete, sou um desenvolvedor </p>
 
 ###
 
