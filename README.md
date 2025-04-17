@@ -50,3 +50,10 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aiglivl5tcrtt44jjkxwqnx5f4&unique={true|1|on|yes}"/>
+  
+</div>
+
+###
