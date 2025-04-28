@@ -2,7 +2,6 @@
 <p>Olá novamente! 👋 Sou um desenvolvedor ainda em início de carreira, sem experiência profissional em empresas, mas extremamente dedicado a evoluir todos os dias. Estou sempre buscando aprender, melhorar minhas habilidades e transformar meu sonho de trabalhar na área de tecnologia em realidade. Cada projeto e estudo é uma oportunidade de crescimento, e sigo firme nessa jornada! 🚀</p>
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HudsonPedroso5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HudsonPedroso5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
