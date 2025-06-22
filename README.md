@@ -1,7 +1,7 @@
 <h2 align="left">Eae 👋! Meu nome é Hudson, Muito prazer em conhecer.</h2>
 <p>Olá novamente! 👋 Sou um desenvolvedor ainda em início de carreira, sem experiência profissional em empresas, mas extremamente dedicado a evoluir todos os dias. Estou sempre buscando aprender, melhorar minhas habilidades e transformar meu sonho de trabalhar na área de tecnologia em realidade. Cada projeto e estudo é uma oportunidade de crescimento, e sigo firme nessa jornada! 🚀</p>
 
-<img  styler="display: flex " align="right" width="1000px" height="500px" src="https://i.pinimg.com/originals/99/26/be/9926be4bd26e4feb4c3e2cbb32c6b781.gif"  />
+<img  styler="display: flex " align="center" justify-content="center"  src="https://i.pinimg.com/originals/32/33/ed/3233ede05843aae75a4c1972efa9d749.gif"  />
 
 
 ###
