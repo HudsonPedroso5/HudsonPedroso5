@@ -1,6 +1,9 @@
 <h2 align="left">Eae 👋! Meu nome é Hudson, Muito prazer em conhecer.</h2>
 <p>Olá novamente! 👋 Sou um desenvolvedor ainda em início de carreira, sem experiência profissional em empresas, mas extremamente dedicado a evoluir todos os dias. Estou sempre buscando aprender, melhorar minhas habilidades e transformar meu sonho de trabalhar na área de tecnologia em realidade. Cada projeto e estudo é uma oportunidade de crescimento, e sigo firme nessa jornada! 🚀</p>
 
+<img align="right" height="500" src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21kYzl1cnhuZjB3ZWcxOGYwN2U5cjRoYnlkc2t6c2w2a3Y5cnFuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SrWuKikT3frcM1u4Qg/giphy.gi](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFoaWthMjV3MHB5NzVkYnpuN2w0eHNibGl4enVyaWIzYjYydmw1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qyUJmARdRq7HlQgT5Z/giphy.gif)f"  />
+
+
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HudsonPedroso5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
