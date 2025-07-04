@@ -68,7 +68,7 @@
   <div align="center">
     <br clear="both">
 
-<img align="right" height="325" src="https://i.pinimg.com/originals/fe/45/d9/fe45d911aebd5855d8f7b5fb05f83680.gif"  />
+<img align="center" height="325" src="https://i.pinimg.com/originals/fe/45/d9/fe45d911aebd5855d8f7b5fb05f83680.gif"  />
 
   <a href="https://open.spotify.com/user/31aiglivl5tcrtt44jjkxwqnx5f4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aiglivl5tcrtt44jjkxwqnx5f4&count=5&unique=true" alt="Spotify recently played"  />
