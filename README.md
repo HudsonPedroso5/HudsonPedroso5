@@ -2,7 +2,7 @@
 <p>Olá novamente! 👋 Sou um desenvolvedor ainda em início de carreira, sem experiência profissional em empresas, mas extremamente dedicado a evoluir todos os dias. Estou sempre buscando aprender, melhorar minhas habilidades e transformar meu sonho de trabalhar na área de tecnologia em realidade. Cada projeto e estudo é uma oportunidade de crescimento, e sigo firme nessa jornada! 🚀</p>
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/8d/fd/c3/8dfdc3cb08ea0a39aa9cc343528345ac.gif"  />
+  <img height="200" width="1008" src="https://i.pinimg.com/originals/8d/fd/c3/8dfdc3cb08ea0a39aa9cc343528345ac.gif"  />
 </div>
 
 ###
