@@ -12,8 +12,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"  width="40" alt="figma logo"  />
   <img width="12" />
@@ -35,11 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"width="40" alt="git logo"  />
 </div>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <a href="www.linkedin.com/in/hudson-pedroso-a985b02bb" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -66,7 +59,7 @@
     
 
   <div align="center">
-    <br clear="both">
+ 
 
 <img align="center" height="325" src="https://i.pinimg.com/originals/fe/45/d9/fe45d911aebd5855d8f7b5fb05f83680.gif"  />
 
