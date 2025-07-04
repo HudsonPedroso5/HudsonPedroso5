@@ -13,11 +13,7 @@
 
 ###
 
-###
 
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/fe/45/d9/fe45d911aebd5855d8f7b5fb05f83680.gif"  />
-</div>
 ###
 
 <div align="left">
@@ -46,6 +42,10 @@
 
 ###
 
+
+
+###
+
 <div align="left">
   <a href="mailto:hudsonbk16@gmail.com?subject=&body=" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
@@ -63,6 +63,11 @@
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aiglivl5tcrtt44jjkxwqnx5f4&unique={true|1|on|yes}"/>
   
+  <img align="right" height="300" src="https://i.pinimg.com/originals/fe/45/d9/fe45d911aebd5855d8f7b5fb05f83680.gif"  />
+
 </div>
+
+
+###
 
 ###
