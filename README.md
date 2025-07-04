@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="450" src="https://i.pinimg.com/originals/f8/cd/29/f8cd29d11a6bec0b6cf2013295073b7a.gif"  />
+  <img height="450" width="1008" src="https://i.pinimg.com/originals/f8/cd/29/f8cd29d11a6bec0b6cf2013295073b7a.gif"  />
 </div>
 
 ###
