@@ -41,16 +41,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HudsonPedroso5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=false&order=1" height="170"  width="418" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HudsonPedroso5&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=midnight-purple&hide_border=false&order=2" height="170" width="408"  alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HudsonPedroso5&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=midnight-purple&hide_border=false&order=2" height="170" width="408"  alt="languages graph"/>
 </div>
-
-
-  <div align="center">
-<img align="center" height="325" src="https://i.pinimg.com/originals/fe/45/d9/fe45d911aebd5855d8f7b5fb05f83680.gif"  />
+<div align="center">
+<img height="325" src="https://i.pinimg.com/originals/fe/45/d9/fe45d911aebd5855d8f7b5fb05f83680.gif"/>
   <a href="https://open.spotify.com/user/31aiglivl5tcrtt44jjkxwqnx5f4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aiglivl5tcrtt44jjkxwqnx5f4&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aiglivl5tcrtt44jjkxwqnx5f4&count=5&unique=true" alt="Spotify recently played"/>
   </a>
 </div>
