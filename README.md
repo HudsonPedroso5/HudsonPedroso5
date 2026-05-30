@@ -42,8 +42,8 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HudsonPedroso5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Hudson%20Pedroso" height="170"  width="418" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HudsonPedroso5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2&custom_title=Linguagens%20mais%20usadas" height="170" width="408"  alt="languages graph"/>
+  <img src="https://raw.githubusercontent.com/HudsonPedroso5/HudsonPedroso5/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/HudsonPedroso5/HudsonPedroso5/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 <div align="center">
 <img height="325" src="https://i.pinimg.com/originals/fe/45/d9/fe45d911aebd5855d8f7b5fb05f83680.gif"/>
